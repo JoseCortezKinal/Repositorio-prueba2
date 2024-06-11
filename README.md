@@ -1,6 +1,6 @@
 git init → inicializar un repositorio local.
 
-git remote add origin → vincular el repositorio remoto con el local
+git remote add origin {URL_REPO} → vincular el repositorio remoto con el local
 
 git branch → verificar las ramas en repositorio local
 
